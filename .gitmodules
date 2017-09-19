@@ -1,3 +1,6 @@
 [submodule "wp-content/themes/psico-theme"]
 	path = wp-content/themes/psico-theme
 	url = https://github.com/everaldomatias/psico-theme
+[submodule "wp-content/themes/alpha-theme"]
+	path = wp-content/themes/alpha-theme
+	url = https://github.com/everaldomatias/alpha-theme
